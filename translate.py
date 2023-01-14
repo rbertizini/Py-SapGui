@@ -1,4 +1,6 @@
 import sys, win32com.client
+#1 - pip install pypiwin32
+#2 - pip install --upgrade pywin32
 
 def Main():
 
